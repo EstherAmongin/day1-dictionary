@@ -1,4 +1,4 @@
-myDic= dict()       
-for x in range(1,16):
-    myDic[x] = x**2
-    print(myDic)
+d=dict()
+for x in range (1,16):
+    d[x]=x**2
+print(d)
